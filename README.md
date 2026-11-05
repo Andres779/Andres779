@@ -21,3 +21,7 @@
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Andres779&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Andres779&layout=compact&theme=dark)
+
+---
+
+<sub>🎨 Plantilla basada en el perfil de [BastianNei](https://github.com/BastianNei). ¡Gracias por compartirla!</sub>
