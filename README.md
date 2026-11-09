@@ -5,8 +5,8 @@
 
 <img src="./banner.png" width="100%" style="object-fit: cover;" />
 
-* 🧑‍💻 Soy estudiante de **Ingenieria informatica**
-* 🧩 Me gustaría aprender más sobre **Desarrollo**
+* 🧑‍💻 Soy estudiante de **Ingenieria informatica** en **Duoc UC** (3er año)
+* 🧩 Quiero seguir aprendiendo sobre **desarrollo de software**
 * 📍 Soy de **Santiago, Chile**
 
 ---
